@@ -1,0 +1,16 @@
+# Librerie fondamentali per Data Science e Visualizzazione
+numpy
+pandas
+matplotlib
+
+# Framework principale LangGraph e LangChain
+langgraph
+langchain
+langchain-ollama
+
+# Per gli approfondimenti (Persistenza, Vector Store e Utility)
+langgraph-checkpoint-sqlite
+langchain-chroma
+langchain-text-splitters
+pypdf
+grandalf
